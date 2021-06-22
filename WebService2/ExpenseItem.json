@@ -1,0 +1,21 @@
+{  
+   "ReceiptDate":"2018-10-05",
+   "ReceiptAmount":"115",
+   "ReceiptCurrencyCode":"USD",
+   "ExpenseCreationMethodCode":"BOTS",
+   "ExpenseTypeCategoryCode":"MISC",
+   "Description":"Exact Match Misc",
+   "Justification":"Exact Match Misc",
+   "MerchantName":"Peri",
+   "Location":"United States",
+   "Attachments":[  
+      {  
+         "DatatypeCode":"File",
+         "CategoryName":"RECEIPTS",
+         "FileName":"RECEIPTS.txt",
+         "FileContents":"JKJKJKJKJKJKJKJKJKJKJ",
+         "Title":"TESTY",
+         "Description":"HEKKY"
+      }
+   ]
+}

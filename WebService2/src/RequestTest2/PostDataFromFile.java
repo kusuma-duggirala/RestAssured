@@ -15,7 +15,7 @@ public class PostDataFromFile
 
 	public static void main(String[] args) throws FileNotFoundException 
 	{
-		FileReader file=new FileReader("C:\\Users\\kduggira.ORADEV\\eclipse-workspace\\WebService\\ExpenseItem.json");
+		FileReader file=new FileReader("C:\\Users\\kduggira.ORADEV\\eclipse-workspace\\WebService2\\ExpenseItem.json");
 		JsonParser parser=new JsonParser();
 		Object obj=parser.parse(file);
 		//System.out.println(obj);
